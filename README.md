@@ -1,4 +1,4 @@
-<pre>
+
 # My Django Project
 
 This is a Django project with some specific dependencies. Follow the steps below to set up the project on your local machine.
@@ -54,4 +54,3 @@ If you are using a conda environment and want to deactivate it after you're done
 conda deactivate
 ```
 
-</pre>
